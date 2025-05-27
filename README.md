@@ -132,7 +132,7 @@ Name the submodel according to the layer to have a better understanding of it's 
 ![Alt-Text](images/step_18.png)
 
 ### Step 19
-By removing every empty spaces between the layers, you have generated a crater landscape.
+By removing every empty spaces between the layers, you have generated a crater landscape. Now you can go through each submodel (layer) individually and resolve the collisions.
 
 ![Alt-Text](images/step_19.png)
 
