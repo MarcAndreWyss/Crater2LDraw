@@ -181,7 +181,7 @@ By removing every empty spaces between the layers, you have generated a crater l
 
 ### Step 28
 Color each layer as desired and/or further modify the model, for example with a support structure.
-- **Comment**: Optionally you can use the generated *.ldr file [here](files/Crater2LDraw.ldr) or the *.io file [here](files/Crater2LDraw.io).
+- **Comment**: Optionally you can use the generated *.ldr file [here](files/Crater2LDraw.ldr) or the *.io file [here](files/Crater2LDraw.io) I used for this instructions. Be aware of the fact that this model is 512 x 512 studs wide!
 
 ![Alt-Text](images/step_28.png)
 
