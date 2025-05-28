@@ -133,7 +133,7 @@ We need to replace the bricks within the model with the corresponding plates. Th
 - 2x6 brick: 2456.dat -> 2x6 plate: 3795.dat
 - 2x8 brick: 3007.dat -> 2x8 plate: 3034.dat
 
-Assuming the file in step 9 was exported as Crater2LDraw.ldr we can use Microsoft PowerShell to replace the bricks with plates. Start Microsoft PowerShell and navigate to the folder where Crater2LDraw.ldr is stored. Then use the following command. The transformed model is stored as Crater2LDraw_Plates.ldr:
+Assuming the file in the previous step was exported as Crater2LDraw.ldr we can use Microsoft PowerShell to replace the bricks with plates. Start Microsoft PowerShell and navigate to the folder where Crater2LDraw.ldr is stored. Then use the following command. The transformed model is stored as Crater2LDraw_Plates.ldr:
 >(Get-Content Crater2LDraw.ldr).Replace('3005.dat', '3024.dat').Replace('3004.dat', '3023.dat').Replace('3622.dat', '3623.dat').Replace('3010.dat', '3710.dat').Replace('3009.dat', '3666.dat').Replace('3008.dat', '3460.dat').Replace('3003.dat', '3022.dat').Replace('3002.dat', '3021.dat').Replace('3001.dat', '3020.dat').Replace('2456.dat', '3795.dat').Replace('3007.dat', '3034.dat') | Set-Content Crater2LDraw_Plates.ldr
 - **Comment**: You can use whatever tool you want to use to use for replacing. On Linux you may want to use for example `sed`.
 
