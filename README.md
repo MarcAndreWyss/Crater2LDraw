@@ -22,7 +22,7 @@ The instructions assume that you already have some familiarity with Bricklink St
 ### Step 1
 Create a new crater field within Gaea. Play with the values as you wish.  
 - **Comment**: Activate the drop option to place the generated terrain as low as possible.
-- **Comment**: Optionally you can use the Gaea file I used for this instructions. You find it [here](files/Crater2LDraw.terrain).
+- **Comment**: Optionally you can use the *.terrain file I used for this instructions. You find it [here](files/Crater2LDraw.terrain).
 
 ![Alt-Text](images/step_01.png)
 
