@@ -86,7 +86,7 @@ Save the new model again as a (different) *.obj file.
 ![Alt-Text](images/step_12.png)
 
 ### Step 13
-Open Bricklink Studio and import the 3D model (*.ojb file) you previously created and exported with MeshLab.
+Open Bricklink Studio and import the 3D model (*.obj file) you previously created and exported with MeshLab.
 
 ![Alt-Text](images/step_13.png)
 
