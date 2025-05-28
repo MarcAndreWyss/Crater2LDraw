@@ -1,4 +1,4 @@
-# Crater2LDraw (using Quadspinner Gaea and Bricklink Studio)
+# Crater2LDraw (using Quadspinner Gaea, MeshLab and Bricklink Studio)
 
 ## Disclaimer
 
@@ -13,6 +13,7 @@ The instructions assume that you already have some familiarity with Bricklink St
 
 ## Software
 - [Quadspinner Gaea](https://quadspinner.com) 2.1.2.0 Community Edition
+- [MeshLab](https://www.meshlab.net) 2023.12
 - [Bricklink Studio](https://www.bricklink.com)  2.25.4.1
 - Microsoft PowerShell
 
